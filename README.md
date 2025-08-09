@@ -13,7 +13,7 @@ Platform | Snapdragon® 870 (SM8250)
 RAM & Storage | 6GB/128GB, 8GB/128GB, 8GB/256GB, 12GB/256GB (LPDDR5 RAM, UFS 3.1 storage)
 Shipped Android Version | 11
 Battery | Non-removable, 4520 mAh
-Display | 6.67″, 120Hz, 2400x1080 (395 ppi)
+Display | 6.67″, 120Hz, 2400x1080 (386 ppi)
 Rear camera | 48MP wide angle, 8MP ultra wide-angle, 5MP macro
 Front camera | 20MP in-display
 
